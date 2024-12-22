@@ -1,14 +1,10 @@
-<div align="center">
-    <h1>Luka 🦎</h1>
-</div>
+<h1><img src="https://tomhuel.es/Logo.svg" width="28"> Tomhuel</h1>
 <h3>Software Developer</h3>
 
-- Username: `Luka`
-- Realname: `Tomás Nahuel`
+- Name: `Tomás Nahuel`
 - Interests: `[
     Coding,
     Videogames,
-    Guild Wars 2,
     Skating,
   Rubik's Cubes
 ];`
@@ -26,8 +22,7 @@
 
 ## Projects
 
-- [TaoModManager](https://github.com/LukaLaKuka/TaoModManager) is a Desktop app to import 3D models to Genshin Impact
-- [RocketNode]() CLI to create basic TypeScript Projects templates
-- [GrooveBox]() Final Project Degree. A simple web to update and share music without losing quality
-- [TaoBot]() Discord's Bot
+- [TaoModManager](https://github.com/Tomhuel/TaoModManager) is a Desktop app to import 3D models to Genshin Impact
+- [GrooveBox](https://github.com/Tomhuel/GrooveBox) Final Project Degree. A simple web to update and share music without losing quality
+- [TaoBot](https://github.com/Tomhuel/TaoBot) Discord's Bot
 - Incoming...
