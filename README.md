@@ -25,4 +25,5 @@
 - [TaoModManager](https://github.com/Tomhuel/TaoModManager) is a Desktop app to import 3D models to Genshin Impact
 - [GrooveBox](https://github.com/Tomhuel/GrooveBox) Final Project Degree. A simple web to update and share music without losing quality
 - [TaoBot](https://github.com/Tomhuel/TaoBot) Discord's Bot
+- [Cerebritos](https://github.com/Tomhuel/Cerebritos)
 - Incoming...
