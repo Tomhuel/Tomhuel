@@ -1,18 +1,5 @@
-<h1><img src="https://tomhuel.es/Logo.svg" width="28"> Tomhuel</h1>
+<h1>Tomhuel</h1>
 <h3>Software Developer</h3>
-
-- Name: `Tomás Nahuel`
-- Interests: `[
-    Coding,
-    Videogames,
-    Skating,
-  Rubik's Cubes
-];`
-- Things that i want to learn: `[
-    C,
-    Golang,
-    NestJS
-]`;
 <div style="height: 16px;"></div>
 <div align="center">
     <img src="https://github-readme-stats-five-beta-84.vercel.app/api?username=tomhuel&show_icons=true&title_color=bf0020&hide_border=true&bg_color=0d1117&icon_color=bf0020&text_color=ffffff">
